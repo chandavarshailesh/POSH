@@ -2,3 +2,5 @@ sample project.
 using Unity
 
 Line 3 changed
+
+Added line 4.
